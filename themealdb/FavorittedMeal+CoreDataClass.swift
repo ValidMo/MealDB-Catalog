@@ -2,7 +2,7 @@
 //  FavorittedMeal+CoreDataClass.swift
 //  themealdb
 //
-//  Created by Valid Mohammadi on 19.02.2024.
+//  Created by Valid Mohammadi on 22.02.2024.
 //
 //
 

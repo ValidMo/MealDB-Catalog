@@ -2,7 +2,7 @@
 //  FavorittedMeal+CoreDataProperties.swift
 //  themealdb
 //
-//  Created by Valid Mohammadi on 19.02.2024.
+//  Created by Valid Mohammadi on 22.02.2024.
 //
 //
 
@@ -20,6 +20,7 @@ extension FavorittedMeal {
     @NSManaged public var desc: String?
     @NSManaged public var id: String?
     @NSManaged public var isFavorited: Bool
+    @NSManaged public var image: String?
 
 }
 
